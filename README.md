@@ -3,7 +3,7 @@
 > ![myhomepage](./icon/IMG_7023.JPG) <citi> -- Benben</citi>
 ![myhomepage](./icon/IMG_7056.JPG)<citi> -- Luna</citi>
 ![myhomepage](./icon/IMG_7059.JPG)<citi> -- Lucky</citi>
-### My name is Xiaoyu. Welcome to my Github.
+### Hi there! My name is Xiaoyu.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xiaoyulyu2020.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
@@ -58,8 +58,17 @@ My Lovely College 🏫
   <a href="#">
     <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>   -->
+  <a href="#">
+    <img src="svg/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:6px 4px">
+  </a>
 
+  <a href="#">
+    <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+  </a>
 
+  <a href="#">
+    <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+  </a>
   <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -79,7 +88,11 @@ My Lovely College 🏫
   <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
-
+  
+  <a href="#">
+    <img src="svg/dev/frameworks/dj.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
   <a href="#">
     <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
   </a>  

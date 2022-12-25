@@ -58,13 +58,6 @@ My Lovely College 🏫
   <a href="#">
     <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>   -->
-  <a href="#">
-    <img src="svg/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
-  </a>
 
   <a href="#">
     <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">

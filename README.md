@@ -35,6 +35,11 @@ My Lovely College 🏫
 📺 My Instgram:
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/lyuxiaoyu4433/)
+
+---
+🚧 Work from Home
+
+![dcu](./icon/IMG_7671.gif)
 <!--
 **xiaoyulyu2020/xiaoyulyu2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

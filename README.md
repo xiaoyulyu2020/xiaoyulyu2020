@@ -141,5 +141,5 @@ My Lovely College 🏫
 ---
 🫠
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyu2020&theme=panda&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyulyu2020&theme=panda&show_icons=true)
 

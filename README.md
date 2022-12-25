@@ -15,8 +15,9 @@ My Lovely College 🏫
 ---
 ### 🥷 About me:
 ```
-💁🏼‍♂️ The third year undergraduate Computer Science student.
-
+💁🏼‍♂️ A third year undergraduate Computer Science student.
+📚 Love reading.
+🏆 Addicted to workout.
 ```
 ---
 🛠 My tools:

@@ -1,4 +1,4 @@
-# My Lovers Say Hi 🐶 🐱
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D7992&width=435&lines=Welcome+to+my+Github.;My+Lovers+Say+Hi+%F0%9F%90%B6+%F0%9F%90%B1)](https://git.io/typing-svg)
 
 > ![myhomepage](./icon/IMG_7023.JPG) <citi> -- Benben</citi>
 ![myhomepage](./icon/IMG_7056.JPG)<citi> -- Luna</citi>
@@ -25,35 +25,107 @@ My Lovely College 🏫
 ---
 🛠 My tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+   <a href="#">
+    <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <!-- <a href="#">
+    <img src="svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
+  </a>   -->
+
+  <!-- <a href="#">
+    <img src="svg/dev/languages/dart_colour.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
+  </a>   -->
+
+
+   <!-- <a href="#">
+    <img src="svg/dev/languages/fsharp.svg" alt="fsharp" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ 
+  <a href="#">
+    <img src="svg/dev/languages/fsharp_dotnet.svg" alt="fsharp_dotnet" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
+  </a>   -->
+
+
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/rsoftware.svg" alt="rsoftware" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <!-- <a href="#">
+    <img src="svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+  </a>   -->
+
+
+  <a href="#">
+    <img src="svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>
+    <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  <!-- </a>  
+     <a href="#">
+    <img src="svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
+  </a>     -->
+</p>
+
 ---
 📺 My Instgram:
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/lyuxiaoyu4433/)
+<a href="https://www.instagram.com/lyuxiaoyu4433/">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
 
 ---
 🚧 Work from Home
 
 ![dcu](./icon/IMG_7671.gif)
-<!--
-**xiaoyulyu2020/xiaoyulyu2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+🫠
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyu2020&theme=panda&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

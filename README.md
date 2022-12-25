@@ -92,8 +92,11 @@ My Lovely College 🏫
 
   <a href="#">
     <img src="svg/dev/languages/rsoftware.svg" alt="rsoftware" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a> 
 
+  <a href="#">
+    <img src="svg/dev/languages/c.svg" alt="rsoftware" style="vertical-align:top; margin:6px 4px">
+  </a> 
   <!-- <a href="#">
     <img src="svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -105,7 +108,8 @@ My Lovely College 🏫
 
   <a href="#">
     <img src="svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
+
   <a href="#">
     <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   </a>

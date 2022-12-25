@@ -14,7 +14,7 @@
 My Lovely College 🏫
 >
 ![dcu](./icon/dcu_logo_stacked_slate_yellow-01.jpeg)
-![ghost](./icon/ghosa-cute.gif)
+![ghost](./icon/gho.gif)
 
 ---
 ### 🥷 About me:

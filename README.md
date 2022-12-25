@@ -1,5 +1,8 @@
-# Hi there 👋
+# My Lovers Say Hi 🐶 🐱
 
+> ![myhomepage](./icon/IMG_7023.JPG) <citi> -- Benben</citi>
+![myhomepage](./icon/IMG_7056.JPG)<citi> -- Luna</citi>
+![myhomepage](./icon/IMG_7059.JPG)<citi> -- Lucky</citi>
 ### My name is Xiaoyu. Welcome to my Github.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xiaoyulyu2020.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)

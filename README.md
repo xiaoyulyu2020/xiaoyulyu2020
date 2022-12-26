@@ -98,6 +98,10 @@ My Lovely College 🏫
   <a href="#">
     <img src="svg/dev/languages/c.svg" alt="rsoftware" style="vertical-align:top; margin:6px 4px">
   </a> 
+
+  <a href="#">
+    <img src="svg/dev/languages/cpp.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
   <!-- <a href="#">
     <img src="svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
   </a>  

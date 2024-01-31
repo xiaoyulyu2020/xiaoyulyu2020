@@ -37,7 +37,4 @@ My Lovely College 🏫
 ![dcu](./icon/IMG_7671.gif)
 
 ---
-🫠
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoyulyu2020&theme=panda&show_icons=true)
 

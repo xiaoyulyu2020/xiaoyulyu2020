@@ -21,17 +21,15 @@ My Lovely College 🏫
 ```
 💁🏼‍♂️ A third year undergraduate Computer Science student.
 📚 Love reading.
-🏆 Addicted to workout.
+🏆 workout.
 ```
 
 ---
 📺 My Instgram:
 
-<a href="https://www.instagram.com/lyuxiaoyu4433/">
+<a href="https://www.instagram.com/chris_lyu_/">
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
-
-
 
 ---
 🚧 Work from Home

@@ -5,17 +5,6 @@
 ![myhomepage](./icon/IMG_7059.JPG)<citi> -- Lucky</citi>
 ### Hi there! My name is Xiaoyu.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xiaoyulyu2020.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-
----
-![myhomepage](./icon/MglH.gif)
-
----
-My Lovely College 🏫
->
-![dcu](./icon/dcu_logo_stacked_slate_yellow-01.jpeg)
-![ghost](./icon/sleep.gif)
-
 ---
 ### 🥷 About me:
 ```

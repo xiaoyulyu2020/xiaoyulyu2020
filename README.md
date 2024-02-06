@@ -21,9 +21,6 @@
   </a>  
 
 ---
-🚧 Work from Home
-
-![dcu](./icon/IMG_7671.gif)
-
+🚧 Work Work
 ---
 

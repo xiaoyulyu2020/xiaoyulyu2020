@@ -8,7 +8,7 @@
 ---
 ### 🥷 About me:
 ```
-💁🏼‍♂️ A third year undergraduate Computer Science student.
+💁🏼‍♂️ A finaly year undergraduate Computer Science student.
 📚 Love reading.
 🏆 workout.
 ```
